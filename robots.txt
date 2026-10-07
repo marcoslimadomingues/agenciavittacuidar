@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://marcoslimadomingues.github.io/cuidadoresemfortaleza/sitemap.xml
+Sitemap: https://marcoslimadomingues.github.io/agenciavittacuidar/sitemap.xml
