@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://marcoslimadomingues.github.io/agenciavittacuidar/sitemap.xml
+Sitemap: https://agenciavittacuidar.com.br/sitemap.xml
